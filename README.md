@@ -3,6 +3,7 @@
 ## Commands
 ```
 【✔】git clone https://github.com/termuxhacking-R1/JAR
+【✔】su
 【✔】cd JAR
 【✔】sh JAR
 ```
